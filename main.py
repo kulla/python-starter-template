@@ -1,5 +1,9 @@
 def main():
-    print("Hello from python-starter-template!")
+    print(hello_world())
+
+
+def hello_world():
+    return "Hello, World!"
 
 
 if __name__ == "__main__":
