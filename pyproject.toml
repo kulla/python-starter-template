@@ -1,7 +1,7 @@
 [project]
 name = "python-starter-template"
 version = "0.1.0"
-description = "Add your description here"
+description = "Starter template for Python projects"
 license = "Apache-2.0"
 readme = "README.md"
 requires-python = ">=3.13"
