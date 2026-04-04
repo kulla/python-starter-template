@@ -14,5 +14,4 @@ dev = [
 ]
 
 [tool.uv]
-no-build = true
 exclude-newer = "3 days"
