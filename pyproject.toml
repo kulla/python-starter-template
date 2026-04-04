@@ -16,4 +16,3 @@ dev = [
 [tool.uv]
 no-build = true
 exclude-newer = "3 days"
-required-version = "==0.11.3"
