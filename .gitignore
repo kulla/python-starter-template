@@ -1,7 +1,8 @@
-# Checkpoint files
-.ipynb_checkpoints/
-
-# Python cached files
+.venv/
 __pycache__/
 *.py[cod]
-*$py.class
+.pytest_cache/
+.ruff_cache/
+dist/
+*.egg-info/
+.ipynb_checkpoints/
